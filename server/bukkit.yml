@@ -36,8 +36,8 @@ ticks-per:
   autosave: 6000
 aliases: now-in-commands.yml
 database:
-  username: bukkit
+  username: Relit5
   isolation: SERIALIZABLE
   driver: org.sqlite.JDBC
-  password: walrus
+  password: Goofyahhmf
   url: jdbc:sqlite:{DIR}{NAME}.db
